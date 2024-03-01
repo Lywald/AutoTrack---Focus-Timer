@@ -22,7 +22,7 @@ class SimpleMainWindow(QMainWindow):
 
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Simple PyQt5 Main Window")
+        self.setWindowTitle("Auto Track")
         self.setGeometry(100, 100, 180, 150)  # Set the position and size of the window
 
         self.setWindowFlags(self.windowFlags() | Qt.WindowStaysOnTopHint)
