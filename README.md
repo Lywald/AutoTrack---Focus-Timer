@@ -1,5 +1,5 @@
 # AutoTrack---Focus-Timer
-Timer against procrastination, it automatically detects the active window / process.
+Timer against procrastination, it automatically detects the active window.
 
 You might need to install:
 
