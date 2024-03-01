@@ -10,3 +10,5 @@ pip install Pillow
 And run this
 
 pythonw ./AutoTrack.py
+
+![AutoTrack picture](https://imgur.com/a/9NKKnsD)
