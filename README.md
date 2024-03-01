@@ -7,6 +7,6 @@ pip install pyqt5
 
 pip install Pillow
 
-And run this so that it does not create a CMD window:
+And run this
 
 pythonw ./AutoTrack.py
