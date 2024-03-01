@@ -12,3 +12,5 @@ And run this
 pythonw ./AutoTrack.py
 
 ![AutoTrack picture](https://i.imgur.com/VoVdQzM.png)
+
+It runs a window which is Always on top
