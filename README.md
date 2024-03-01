@@ -11,4 +11,4 @@ And run this
 
 pythonw ./AutoTrack.py
 
-![AutoTrack picture](https://imgur.com/a/9NKKnsD)
+![AutoTrack picture](https://i.imgur.com/VoVdQzM.png)
